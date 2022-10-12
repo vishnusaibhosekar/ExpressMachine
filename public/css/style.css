@@ -3,6 +3,8 @@ html {
     font-family: 'Bungee', cursive;
     font-size: 16px;
     text-align: center;
+    max-width: 1000px;
+    margin: auto;
   }
   
   header {
